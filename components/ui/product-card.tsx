@@ -26,13 +26,11 @@ const ProductCard: React.FC<ProductCard> = ({ data }) => {
 
   const onPreview: MouseEventHandler<HTMLButtonElement> = (event) => {
     event.stopPropagation();
-
     previewModal.onOpen(data);
   };
 
   const onAddToCart: MouseEventHandler<HTMLButtonElement> = (event) => {
     event.stopPropagation();
-
     cart.addItem(data);
   };
 
@@ -53,7 +51,7 @@ const ProductCard: React.FC<ProductCard> = ({ data }) => {
         <p className="text-lg font-semibold">{data.name}</p>
         <p className="text-sm text-gray-500">{data.category?.name}</p>
       </div>
-      {/* Price & Reiew */}
+      {/* Price & Review */}
       <div className="flex items-center justify-between">
         <Currency value={data?.price} />
       </div>
