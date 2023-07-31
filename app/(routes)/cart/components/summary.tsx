@@ -20,8 +20,8 @@ const Summary = () => {
       removeAll();
     }
 
-    if (searchParams.get("canceled")) {
-      toast.error("Something went wrong.");
+    if (searchParams.get("Cancelled")) {
+      toast.error("Transaction cancelled.");
     }
   }, [searchParams, removeAll]);
 
