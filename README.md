@@ -13,7 +13,7 @@ https://e-commerce-store-wa71.vercel.app/
 * Tailwind CSS
 * Axios
 * Headless UI
-* Teact Hot Toast
+* React Hot Toast
 * Lucide React
 
 # Getting Started
