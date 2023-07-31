@@ -68,3 +68,10 @@ Running commands with npm `npm run [command]`
 
 ## Preview
 
+### Main Store
+![Untitled](https://github.com/samizak/E-Commerce-Store/assets/30938455/daf90a7b-2b24-4a51-b23f-eeda65cd9534)
+
+### Checkout Page
+![Untitled2](https://github.com/samizak/E-Commerce-Store/assets/30938455/445ed3b2-e556-458b-988e-e5c7a8f978a0)
+
+
