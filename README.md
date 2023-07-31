@@ -3,6 +3,8 @@
 ## Description
 A fullstack E-Commerce Store created with NextJS, React, TailwindCSS and Headless UI.
 
+- [Link to Admin Panel](https://github.com/samizak/E-Commerce-Admin).
+
 ## Live Preview
 https://e-commerce-store-wa71.vercel.app/
 
