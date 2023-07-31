@@ -18,6 +18,15 @@ https://e-commerce-store-wa71.vercel.app/
 * React Hot Toast
 * Lucide React
 
+## Key Features:
+
+- Ability to browse multiple `stores`.
+- Ability to add and remove `items` from cart.
+- Ability to view order summary
+- Ability to checkout using `Stripe`.
+- Ability to view product preview.
+- Ability to use filters such as `Colors` and `Sizes`.
+
 # Getting Started
 
 ## 1. Cloning the repository
