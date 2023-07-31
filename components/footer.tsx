@@ -1,8 +1,10 @@
 const Footer = () => {
+  const curYear = new Date().getFullYear();
+
   return (
     <footer className="bg-white border-t">
-      <div className="mx-auto py-10">
-        <p className="text-center text-xs text-black">&copy; 2023 Store, Inc. All rights reserved.</p>
+      <div className="py-10 mx-auto">
+        <p className="text-xs text-center text-black">Copyright © {curYear} samizak</p>
       </div>
     </footer>
   );
